@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 29.7 18.5" style="enable-background:new 0 0 29.7 18.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_2_);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#E0E0E0;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#222222;}
+</style>
+<g>
+	<g>
+		<g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="29.7" height="18.5">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="0" width="29.7" height="18.5" id="mask-2_2_">
+				<rect x="0" class="st0" width="29.7" height="18.5"/>
+				<g>
+					<rect id="rect-1_2_" x="0" class="st1" width="29.7" height="18.5"/>
+				</g>
+			</mask>
+			<g class="st2">
+				<g>
+					<g>
+						<path class="st3" d="M27.9,18.5H1.8c-1,0-1.8-0.8-1.8-1.8v-15C0,0.8,0.8,0,1.8,0h26.2c1,0,1.8,0.8,1.8,1.8v15
+							C29.7,17.7,28.9,18.5,27.9,18.5L27.9,18.5z"/>
+					</g>
+					<g>
+						<path class="st4" d="M3.4,2.5h2.3c0.4,0,0.8,0.4,0.8,0.8v2C6.5,5.7,6.2,6,5.7,6H3.4C2.9,6,2.6,5.7,2.6,5.3v-2
+							C2.6,2.8,2.9,2.5,3.4,2.5z"/>
+					</g>
+					
+						<g transform="translate(98.50001499999973, 16.00000999999979) rotate(180.00006436155007) translate(-98.50001499999973, -16.00000999999979)">
+						<path class="st4" d="M170.7,26h2.1v3.6h-2.1c-0.4,0-0.8-0.4-0.8-0.8v-2.1C169.9,26.4,170.3,26,170.7,26z"/>
+					</g>
+					<g>
+						<path class="st4" d="M22.1,2.3h2.1V6h-2.1c-0.4,0-0.8-0.4-0.8-0.8V3.1C21.4,2.7,21.7,2.3,22.1,2.3z"/>
+					</g>
+					<g>
+						<g>
+							<path class="st4" d="M27,10.9H2.8c-0.1,0-0.2,0-0.2-0.1V9.4c0,0,0.1-0.1,0.2-0.1H27c0.1,0,0.2,0,0.2,0.1v1.5
+								C27.2,10.9,27.1,10.9,27,10.9L27,10.9z"/>
+						</g>
+						<g>
+							<path class="st4" d="M15,13.4H2.7c0,0-0.1,0-0.1-0.1v-1c0,0,0-0.1,0.1-0.1H15c0,0,0.1,0,0.1,0.1L15,13.4
+								C15.1,13.3,15.1,13.4,15,13.4L15,13.4z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

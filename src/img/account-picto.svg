@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 38 38" style="enable-background:new 0 0 38 38;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.15;}
+	.st1{filter:url(#filter-2);}
+	.st2{fill:#222222;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#222222;}
+</style>
+<filter  filterUnits="userSpaceOnUse" height="200%" id="filter-2" width="200%" x="-50%" y="-50%">
+	<feOffset  dx="0" dy="0" in="SourceAlpha" result="shadow-1-feOffset-shadow"></feOffset>
+	<feGaussianBlur  in="shadow-1-feOffset-shadow" result="shadow-1-feGaussianBlur-shadow" stdDeviation="2"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadow-1-feGaussianBlur-shadow" result="shadow-1-feColorMatrix-shadow" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0">
+		</feColorMatrix>
+</filter>
+<g>
+	<g class="st0">
+		<g class="st1">
+			<ellipse id="ellipse-1_2_" cx="19" cy="19" rx="19" ry="19"/>
+		</g>
+		<g>
+			<ellipse id="ellipse-1_1_" class="st2" cx="19" cy="19" rx="19" ry="19"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M19,21.1c3,0,5.5-2.6,5.4-5.8c0-3.2-2.5-5.9-5.5-5.8c-3,0-5.5,2.7-5.4,5.9C13.6,18.5,16,21.1,19,21.1z
+				 M19,10.8c2.3,0,4.2,2,4.2,4.5c0,2.4-1.9,4.5-4.2,4.5c-2.3,0-4.2-2-4.2-4.5C14.8,12.8,16.7,10.8,19,10.8z"/>
+		</g>
+		<g>
+			<path class="st3" d="M27.7,27.4l-1.1,1.2c-2.1-2.2-4.7-3.4-7.6-3.4c-3,0-5.5,1.2-7.6,3.3c-0.4-0.4-0.7-0.7-1.1-1.1
+				C14.4,22.8,22.5,21.8,27.7,27.4L27.7,27.4z"/>
+		</g>
+	</g>
+</g>
+</svg>

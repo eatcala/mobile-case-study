@@ -12,7 +12,6 @@ import { useUserState } from '../../../context';
 import BackNavigation from '../../../components/UI/BackNavigation';
 import RegularButton from '../../../components/UI/RegularButton';
 import DishList from '../../../components/Order/Checkout/DishList';
-import AppLoading from '../../../components/UI/AppLoading';
 
 import Moon from '../../../../src/img/moon.svg';
 import Locker from '../../../../src/img/locker.svg';
@@ -42,7 +41,7 @@ const styles = StyleSheet.create({
 
 const Checkout = ({ navigation }) => {
   const dim = Dimensions.get('window');
-  const { cards, card, slot, order, user, isUserNew, bootSplashIsVisible } = useUserState();
+  const { cards, card, slot, order, user, isUserNew } = useUserState();
 
   const [isPickupModalOpen, setIsPickupModalOpen] = useState(false);
   const [serviceHours, setServiceHours] = useState(null);
@@ -115,10 +114,6 @@ const Checkout = ({ navigation }) => {
     const orderPrice = getOrderPrice(order, isUserNew ? 6 : 0);
     return user ? `Payez ${orderPrice} €` : 'FINALISER';
   };
-
-  if (bootSplashIsVisible || serviceHours === null) {
-    return <AppLoading loading={robotConfigLoading} />;
-  }
 
   return (
     <MainView>

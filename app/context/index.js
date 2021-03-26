@@ -7,7 +7,6 @@ const UserStateContext = createContext();
 const UserDispatchContext = createContext();
 
 const initialState = {
-  bootSplashIsVisible: true,
   user: null,
   isUserNew: false,
   order: [],
@@ -62,9 +61,6 @@ const initialState = {
 
 const userReducer = (state, action) => {
   switch (action.type) {
-    case 'HIDE_BOOTSPLASH': {
-      return { ...state, bootSplashIsVisible: action.payload };
-    }
     case 'SET_USER': {
       return { ...state, user: action.payload };
     }

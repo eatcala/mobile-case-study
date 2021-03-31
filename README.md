@@ -1,6 +1,6 @@
 # Cala Mobile case study
 
-Cala Mobile is the mobile application with React Native for Android and IOS. The project is using ESlint with the Airbnb config combined with Prettier. We don't use redux or state manager but React hooks and Apollo state with React Navigation for the routing.
+This repository is a limited access to Cala Mobile, the mobile application with React Native. The project is using ESlint with the Airbnb config combined with Prettier. We don't use redux or state manager but React hooks and Apollo state with React Navigation for the routing.
 
 **Requirements:**
 

@@ -21,7 +21,7 @@ The goal of the sudy case is to:
 - Reproduce the design found in Figma using **styled-component**
 - Store the selected slot to be able to use it in checkout submit
 
-Feel free to 
+Feel free to ask about anything 😉
 
 ## Start project
 

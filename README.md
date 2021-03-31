@@ -1,6 +1,6 @@
-# Cala Mobile
+# Cala Mobile case study
 
-Cala Mobile is the mobile application with React Native for Android and IOS. The project is using ESlint with the Airbnb config combined with Prettier.
+Cala Mobile is the mobile application with React Native for Android and IOS. The project is using ESlint with the Airbnb config combined with Prettier. We don't use redux or state manager but React hooks and Apollo state with React Navigation for the routing.
 
 **Requirements:**
 
@@ -12,9 +12,16 @@ Cala Mobile is the mobile application with React Native for Android and IOS. The
 
 ## Case study
 
-You will have to add the slot part of the Checkout page.
-Those slots are available pickup for our customer, they have to chose it during the checkout.
-You will have to reproduce the design from figma and store the selected slot to be able to use it in checkout submit
+You will have to add the slot part of the Checkout page. You can find the design in our Figma account [Figma](https://www.figma.com/file/F5JIBuGkuNkBvrvYdU8cmC/Software-case-study?node-id=0%3A1)
+
+The goal of the sudy case is to:
+- Create a component to display a sticky modal using **react-native-modal**
+- Fetch the availables slots for pickup using **apollo** and **graphQL** tags
+- Fulfill a new slots object parsing the query result to be able to use it in list
+- Reproduce the design found in Figma using **styled-component**
+- Store the selected slot to be able to use it in checkout submit
+
+Feel free to 
 
 ## Start project
 
@@ -28,34 +35,4 @@ Start IOS:
 
 ```bash
 npm run ios
-```
-
-## Design
-
-[Figma](https://www.figma.com/file/F5JIBuGkuNkBvrvYdU8cmC/Software-case-study?node-id=0%3A1)
-
-## Deployment
-
-### Android
-
-**Initialisation**
-
-1. To open Keychain Access just press space+cmd and type keychain access.
-2. Add a new password by pressing the plus sign
-3. As name you can put android_keystore or whatever you find suitable. Fill in your account name in account. Ultimately you fill in the password that you used when you created the key using keytool\*.
-
-**BETA**
-
-```bash
-npm run beta:android
-```
-
-### IOS
-
-**Initialisation**
-
-**BETA**
-
-```bash
-npm run beta:ios
 ```

@@ -1,6 +1,6 @@
 # Cala Mobile case study
 
-This repository is a limited access to Cala Mobile, our mobile app built with [React Native](https://reactnative.dev/docs/getting-started). Code is linted using [ESlint](https://github.com/eslint/eslint) with the [Airbnb](https://github.com/airbnb/javascript) ruleset and [Prettier](https://github.com/prettier/prettier). We don't use Redux or any other state management library but [React hooks](https://reactjs.org/docs/hooks-overview.html) and [Apollo](https://www.apollographql.com/docs/react/) state with [React Navigation](https://reactnavigation.org/docs/getting-started) for the routing.
+This repository is a limited access to Cala Mobile, our mobile app built with React Native. Code is linted using ESlint with the Airbnb ruleset and Prettier. We don't use Redux or any other state management library but React hooks and Apollo state with React Navigation for the routing.
 
 **Requirements:**
 
@@ -18,7 +18,6 @@ Tasks are as follows:
 
 - Create a component to display a sticky modal using **react-native-modal**.
 - Fetch the available pickup slots using **Apollo** and **graphQL** tags.
-- Create an object containing slots in order to display them by hour in a list.
 - Implement the design found in Figma using **styled-component**.
 - Store the selected slot so as to use it at checkout.
 

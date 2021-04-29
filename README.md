@@ -12,7 +12,7 @@ This repository is a limited access to Cala Mobile, our mobile app built with Re
 
 ## Case study
 
-You will have to add a pickup slot picker to the Checkout screen. You can find the design in our [Figma](https://www.figma.com/file/F5JIBuGkuNkBvrvYdU8cmC/Software-case-study?node-id=0%3A1) workspace.
+You will have to add a pickup slot picker to the Checkout screen. You can find the design in our [Figma](https://www.figma.com/file/vKOVXHUCOWWEzE6P9yVxpo/Mobile-pickup-slot-selection?node-id=0%3A1) workspace.
 
 Tasks are as follows:
 

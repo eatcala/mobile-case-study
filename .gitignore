@@ -41,6 +41,8 @@ yarn-error.log
 *.jar
 *.war
 *.ear
+!myfgradle-wrapperile.jar
+
 
 # BUCK
 buck-out/
